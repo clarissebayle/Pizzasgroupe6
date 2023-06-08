@@ -9,19 +9,19 @@ body{
 	object-fit: cover; }
 
 .cuisto{
-  width: 100%;
+  width: 57%;
   height: 300px;
   object-fit: cover;
 }
 
 .four{
-  width: 100%;
+  width: 57%;
   height: 300px;
   object-fit: cover;
 }
 
 .pizza{
-  width: 100%;
+  width: 57%;
   height: 300px;
   object-fit: cover;
 }
@@ -43,11 +43,11 @@ h2{
 
 
 .images{
-  width: 100%;
+  width: 57%;
   height: 300px;
   display: flex;
   justify-content: space-between;
-  gap:10px;
+  gap:17px;
 }
 
 
