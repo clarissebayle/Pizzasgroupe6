@@ -1,0 +1,79 @@
+body{
+	text-align: center;
+	background: #ABC4AA;
+  font-family: 'Playfair Display', serif;
+}
+.devanture{
+	width: 1400px;
+	height: 600px;
+	object-fit: cover; }
+
+.cuisto{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.four{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.pizza{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+h1{ 
+	margin: 10px;
+  font-size: 60px;
+color: #F4EEE0;
+font-weight: bold;
+}
+
+h2{
+	margin-top: 10px;
+	margin-bottom: 50px;
+  font-style: italic;
+}
+
+
+
+
+.images{
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  gap:10px;
+}
+
+
+.navbar {  
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background: #5C8984;
+  margin: 10px;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.link {
+  margin: 10px 30px;
+  color: #F4EEE0;
+}
+
+.cadre-fin{
+  border: 1px solid black;
+
+}
+
+.cadre-cuisine{
+  border: 1px solid black;
+}
